@@ -1,0 +1,14 @@
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\bin\Release\vmix-delay.exe.config
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\bin\Release\vmix-delay.exe.manifest
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\bin\Release\vmix-delay.application
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\bin\Release\vmix-delay.exe
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\bin\Release\vmix-delay.pdb
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.csprojAssemblyReference.cache
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix_delay.Form1.resources
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix_delay.Properties.Resources.resources
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.csproj.GenerateResource.cache
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.csproj.CoreCompileInputs.cache
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.exe.manifest
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.application
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.exe
+D:\C-ről másolt\c#\vmix-delay\vmix-delay\obj\Release\vmix-delay.pdb
